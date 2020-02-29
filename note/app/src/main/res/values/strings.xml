@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">note</string>
+    <string name="save">Save</string>
+    <string name="please_type_here">Please type here...</string>
+</resources>
