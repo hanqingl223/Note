@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">note</string>
-    <string name="save">Save</string>
-    <string name="please_type_here">Please type here...</string>
+    <string name="app_name">Note</string>
+    <string name="save">save</string>
 </resources>

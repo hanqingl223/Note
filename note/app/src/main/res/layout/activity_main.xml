@@ -12,12 +12,12 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-    <EditText
-        android:id="@+id/noteContent"
-        android:layout_width="410dp"
-        android:layout_height="310dp"
-        android:autofillHints=""
-        android:inputType="textMultiLine" />
+        <EditText
+            android:id="@+id/noteContent"
+            android:layout_width="410dp"
+            android:layout_height="310dp"
+            android:autofillHints=""
+            android:inputType="textMultiLine" />
 
         <Button
             android:id="@+id/btnSave"
